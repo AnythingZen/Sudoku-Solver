@@ -3,3 +3,6 @@
 3. Function to find the unfilled slots in the puzzle.
 4. Understanding how recursion work and apply to backtrack for every 'deadend' encountered.
 5. For recursion : make sure to have a base case and an ending to prevent infinite loop.
+
+Optimisation: 
+Can add on top function that instantly solves for answers that are definitely correct first. 
